@@ -1,9 +1,32 @@
+
+/*global*/
+body {
+  font-family: 'Lato', sans-serif;
+}
+.container {
+  width: 1100px;
+
+}
 header {
   color: grey;}
 .box {
   text-align: center;
+  width: 800px;
 }
-
+    .green {
+      width: 200px;
+     float: left;
+    margin: 10px;}
+    .blue {
+      width: 200px;
+      float: left;
+      margin: 10px;}
+    .black {
+        width: 200px;
+        float: left;
+        margin: 10px;
+        border: 1px solid lightgrey;
+  }
 .top {
     background: green;}
         .personal {
@@ -17,9 +40,57 @@ header {
           color: lightgrey  }
 .top2 {
   background: blue;
-  te
+
 }
 .top3 {
   background: black;
 }
-div
+
+
+
+.middle {
+  background-color: lightgrey;
+  margin: 0px;
+  padding: 20px 0;
+}
+.middle li {
+  list-style: none;
+  padding: 8px;
+  border-bottom: 1px solid grey;
+}
+
+/*paragraphs*/
+.paragraphs {
+  width: 800px;
+  text-align: center;
+  clear: both;}
+
+.para1 {
+  width: 300px;
+  float: left;
+}
+
+.para2 {
+  width: 300px;
+  float: left;
+}
+
+.para3 {
+  width: 300px;
+  float: left;
+}
+
+.para4 {
+  width: 300px;
+  float: left;
+}
+/*header*/
+.nav li {
+  list-style: none;
+  display: inline-block;
+}
+
+
+
+
+/*section 1 */
