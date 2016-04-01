@@ -1,7 +1,25 @@
 header {
-  color: grey
-  ;
+  color: grey;}
+.box {
+  text-align: center;
 }
-.first {
-  background: pink
+
+.top {
+    background: green;}
+        .personal {
+          color: white;  }
+        .price {
+          color: white;
+          font-size: 60px;
+        }
+
+        .month {
+          color: lightgrey  }
+.top2 {
+  background: blue;
+  te
 }
+.top3 {
+  background: black;
+}
+div
