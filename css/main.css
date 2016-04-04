@@ -14,8 +14,10 @@ header {
   color: grey;}
 h2 {
 position: absolute;
-top: 40px;
-left: 40px;
+top: 200px;
+left: 500px;
+color: white;
+width: 190px;
 }
 .box {
   text-align: center;
@@ -24,11 +26,13 @@ left: 40px;
     .green {
       width: 200px;
      float: left;
-    margin: 10px;}
+    margin: 10px;
+    border: 1px solid lightgrey;}
     .blue {
       width: 200px;
       float: left;
-      margin: 10px;}
+      margin: 10px;
+      border: 1px solid lightgrey;}
     .black {
         width: 200px;
         float: left;
@@ -66,6 +70,10 @@ left: 40px;
   padding: 8px;
   border-bottom: 1px solid grey;
 }
+button {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
 
 /*paragraphs*/
 .paragraphs {
@@ -98,9 +106,25 @@ left: 40px;
   list-style: none;
   display: inline-block;
 }
-p {
-  font-size: 10px;}
+.priceb {
+  color: black;
+}
 
+.end li{
+  list-style: none;
+  display: inline-block;
+  background: black;
+  color: white;
+  font-size: 15px
+ }
+ .underlined li {
+  display:
+ }
+
+
+
+
+}
 
 
 
