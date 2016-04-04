@@ -110,13 +110,18 @@ button {
   color: black;
 }
 
+footer {
+  clear: both;
+  margin: 100px;
+}
 .end li{
   list-style: none;
   display: inline-block;
   background: black;
   color: white;
   font-size: 15px;
-   
+
+
 
  }
  .underlined li {
