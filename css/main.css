@@ -12,12 +12,14 @@ body {
 }
 header {
   color: grey;}
+
 h2 {
 position: absolute;
-top: 200px;
-left: 500px;
+top: 170px;
+left: 370px;
 color: white;
-width: 190px;
+width: 200px;
+
 }
 .box {
   text-align: center;
@@ -112,24 +114,28 @@ button {
 
 footer {
   clear: both;
-  margin: 100px;
+  margin: none;
+  background-color: black;
+  padding: 50px;
+  width: 800px;
 }
 .end li{
   list-style: none;
   display: inline-block;
   background: black;
-  color: white;
+  color: grey;
   font-size: 15px;
 
 
 
  }
  .underlined li {
-  display:
+  text-decoration: underline white;
  }
 
 
-
+img {
+  width: 900px;
 
 }
 
